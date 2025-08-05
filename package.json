@@ -1,0 +1,11 @@
+{
+  "name": "StalkerOnline",
+  "uuid": "3b7c8a5e-bfb0-4caf-b5b9-63f56712a57f",
+  "creator": {
+    "version": "3.8.7"
+  },
+  "memory": {
+    "max_js_heap_size": 4096
+  },
+  "version": "3.8.7"
+}

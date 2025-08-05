@@ -1,0 +1,29 @@
+{
+  "general": {
+    "highQuality": true,
+    "designResolution": {
+      "width": 1920,
+      "height": 1080,
+      "fitWidth": false,
+      "fitHeight": false
+    },
+    "downloadMaxConcurrency": 30
+  },
+  "__version__": "1.0.6",
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  },
+  "layer": [
+    {
+      "name": "WEAPONS",
+      "value": 524288
+    },
+    {
+      "name": "BIGEST_OBJECT",
+      "value": 1
+    }
+  ],
+  "custom_joint_texture_layouts": []
+}
